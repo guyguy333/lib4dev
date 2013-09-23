@@ -55,3 +55,30 @@ Started GET "/assets/jquery_ujs.js?body=1" for 78.242.33.199 at 2013-09-23 12:07
 
 
 Started GET "/assets/welcome.js?body=1" for 78.242.33.199 at 2013-09-23 12:07:56 +0000
+
+
+Started GET "/" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 15ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
+
+
+Started GET "/assets/application.js?body=1" for 78.242.33.199 at 2013-09-23 12:09:51 +0000
